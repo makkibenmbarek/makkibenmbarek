@@ -27,7 +27,7 @@
   <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt=".Net" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg" alt="Qt" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/flutter/flutter-ar21.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg" alt="Qt" Swift="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg" alt="Swift" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="40" height="40"/>
   <img src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png" alt="Symfony" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> 
