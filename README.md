@@ -42,6 +42,5 @@
 
 <p align="center">
   <a href="https://github.com/makkibenmbarek">
-    <img src="https://github-readme-stats.vercel.app/api?username=ihebhamdi&count_private=true&hide_border=true&show_icons=true" alt="Iheb HAMDI's github stats">
   </a>
 </p>
