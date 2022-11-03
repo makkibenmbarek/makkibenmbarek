@@ -45,11 +45,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ihebhamdi&count_private=true&hide_border=true&show_icons=true" alt="Iheb HAMDI's github stats">
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/makkibenmbarek">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihebhamdi&layout=compact&hide_border=true&show_icons=true&count_private=true" alt="Iheb HAMDI's github stats">
-  </a>
-  <br>
-<img align="center" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-<br>
-</p>
