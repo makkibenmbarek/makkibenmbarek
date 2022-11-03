@@ -26,17 +26,13 @@
   <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt=".Net" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg" alt="Qt" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutter/flutterio-ar21.svg" alt="Flutter" width="40" height="40"/>
+  [<img src="https://www.vectorlogo.zone/logos/flutter/flutterio-ar21.svg" alt="Flutter" width="40" height="40"/>](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)
   <img src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg" alt="Swift" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="40" height="40"/>
   <img src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png" alt="Symfony" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg" alt="redhat" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="Ubuntu" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg" alt="XML" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="ELK" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-ar21.svg" alt="ELK" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="ELK" width="40" height="40"/>
+
   
   
  
