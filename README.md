@@ -1,6 +1,6 @@
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>Yo, I'm Iheb HAMDI👋</b></h1>
+  <h1 align="center"><b>Hey All, I'm Makki BENMBAREK👋</b></h1>
 </p>
 <h4 align="center"><b>I'm an engineering student</b></h4>
 <p>
@@ -13,10 +13,8 @@
 
 <p align="center">
 <br>
-<a href="https://www.facebook.com/benfoued.iheb/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://instagram.com/iheb__hamdi"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/ihebhamdi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:iheb.hamdi.1@esprit.tn"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/makkibenmbarek/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:makki.benmbarek@esprit.tn"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 
@@ -28,6 +26,8 @@
   <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt=".Net" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg" alt="Qt" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/flutter/qtio-ar21.svg" alt="Qt" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/swift/qtio-ar21.svg" alt="Qt" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="40" height="40"/>
   <img src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png" alt="Symfony" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> 
@@ -45,12 +45,12 @@
  </p>
 
 <p align="center">
-  <a href="https://github.com/ihebhamdi">
+  <a href="https://github.com/makkibenmbarek">
     <img src="https://github-readme-stats.vercel.app/api?username=ihebhamdi&count_private=true&hide_border=true&show_icons=true" alt="Iheb HAMDI's github stats">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/ihebhamdi">
+  <a href="https://github.com/makkibenmbarek">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihebhamdi&layout=compact&hide_border=true&show_icons=true&count_private=true" alt="Iheb HAMDI's github stats">
   </a>
   <br>
